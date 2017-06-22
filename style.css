@@ -11,6 +11,13 @@
 
 	background-color: grey;
 }
+
+p {
+	font-size: 15;
+	color: #030b94;
+	text-align: center;
+}
+
 img {
 
 	display: block;
